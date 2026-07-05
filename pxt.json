@@ -1,0 +1,25 @@
+{
+    "name": "uhruhruhr",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v3": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.6"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.1.13",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
